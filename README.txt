@@ -1,11 +1,13 @@
-This was made as a Project for 1st Semester course ( Fundamentals of programming [FOP] )
+# Dinorun
 
-Google's Dino game clone
-libs used = SDL2
+Simple infinite platformer game using SDL2 and C
 
-Instructions :
+# Features
 
-- Arrow Up = Jump
-- Arrow Down = Crouch
-- F1 = Debug Mode Toggle
-- F2 = Collision Mode Toggle
+- Collision detection
+- Scoring system
+- Menu system
+
+# Screenshots
+
+![dinorun#1](https://user-images.githubusercontent.com/70785015/106696849-64f86b80-65ff-11eb-93c8-d49c349c5a2f.PNG)
