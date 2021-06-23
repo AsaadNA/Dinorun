@@ -1,4 +1,4 @@
-# Dinorun
+# Dinorun (semester project)
 
 Simple infinite platformer game using SDL2 and C
 
